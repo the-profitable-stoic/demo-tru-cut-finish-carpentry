@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Tru Cut Finish Carpentry",
+    "phone": "+16026863595",
+    "category": "carpenter",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Precision Carpentry, Flawless Finishes",
+      "heroSubline": "Tru Cut Finish Carpentry delivers exceptional craftsmanship throughout Phoenix. We tackle tough projects, ensuring lasting quality under the Arizona sun.",
+      "aboutTitle": "Crafting Phoenix, One Project at a Time",
+      "aboutText": [
+        "Tru Cut Finish Carpentry started with a simple goal: to bring unparalleled carpentry skills to the Phoenix area. We're not just builders; we're artisans dedicated to transforming your vision into reality.",
+        "Our approach is built on meticulous attention to detail, open communication, and a commitment to exceeding expectations. We understand the unique challenges of the Arizona climate and build for durability.",
+        "We're deeply rooted in the Phoenix community, supporting local suppliers and contributing to the city's growth. Our reputation is built on trust and lasting relationships with our clients."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Decades of experience delivering flawless carpentry, built to withstand Arizona's climate."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "We specialize in tailored solutions to match your unique style and architectural needs."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time project completion and clear communication throughout the process."
+        },
+        {
+          "title": "Durability Guaranteed",
+          "description": "Using quality materials and proven techniques for lasting performance."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote and experience the Tru Cut difference."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Elevate your kitchen, bath, or office with handcrafted cabinets.",
+        "description": "Tru Cut Finish Carpentry designs and builds custom cabinets tailored to your exact specifications. We understand the importance of both aesthetics and functionality, creating storage solutions that enhance your living space. Whether you envision a modern, minimalist design or a classic, ornate style, we have the expertise to bring your dream cabinets to life. Our process includes detailed consultations, precise measurements, and careful material selection to ensure a perfect fit and lasting beauty. Considering Phoenix's intense heat, we use durable materials and construction techniques that resist warping and cracking. From kitchens to home offices, our custom cabinetry adds value and sophistication to any room. \n\nWe work with a variety of materials, including hardwoods, veneers, and laminates, to match your budget and style preferences. Our experienced craftsmen pay meticulous attention to detail, ensuring seamless joinery, smooth finishes, and flawless hardware installation. We also offer a range of customization options, such as soft-close hinges, pull-out shelves, and integrated lighting, to enhance the functionality of your cabinets.\n\nWe handle everything from design to installation, ensuring a hassle-free experience for our clients. Our commitment to quality and customer satisfaction is unwavering. We are confident that you will be delighted with your new custom cabinets.",
+        "process": [
+          "Consultation and Design",
+          "Material Selection",
+          "Fabrication",
+          "Installation"
+        ],
+        "benefits": [
+          "Maximize Space",
+          "Increase Home Value",
+          "Personalized Style",
+          "Improved Organization"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for custom cabinets?",
+            "answer": "We work with a variety of materials, including hardwoods, veneers, and laminates, selected for their durability and aesthetic appeal."
+          },
+          {
+            "question": "How long does it take to install custom cabinets?",
+            "answer": "The installation timeframe depends on the size and complexity of the project, but we always provide a clear timeline during the consultation phase."
+          },
+          {
+            "question": "Can you match existing cabinet styles?",
+            "answer": "Yes, our experienced craftsmen can replicate existing cabinet styles to ensure a seamless match with your home's decor."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation-repair",
+        "name": "Door Installation & Repair",
+        "shortDescription": "Secure and stylish doors expertly installed and repaired.",
+        "description": "Tru Cut Finish Carpentry provides comprehensive door installation and repair services for Phoenix homes and businesses. We understand the importance of a secure, functional, and aesthetically pleasing doorway. Whether you need a new front door, interior doors, or patio doors, we have the expertise to handle any project, adhering to Phoenix building codes and HOA requirements. Our team carefully assesses your needs, recommending the best door style and materials for your budget and design preferences. We also specialize in repairing damaged doors, including fixing broken hinges, replacing damaged frames, and patching holes.\n\nConsidering Phoenix's extreme weather, we offer weatherstripping and sealing services to improve energy efficiency and protect your home from dust and drafts. We also install security features, such as reinforced frames, deadbolts, and peepholes, to enhance your peace of mind. Our experienced installers ensure a precise fit and smooth operation, paying meticulous attention to detail. From traditional wood doors to modern steel doors, we have the skills and experience to handle any type of door installation or repair.\n\nWe pride ourselves on our prompt, reliable service and commitment to customer satisfaction. We are confident that you will be delighted with our workmanship and professionalism. We handle everything from initial consultation to final inspection, ensuring a hassle-free experience for our clients.",
+        "process": [
+          "Assessment and Consultation",
+          "Door Selection",
+          "Installation or Repair",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Energy Efficiency",
+          "Increased Curb Appeal",
+          "Smooth Operation"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you install?",
+            "answer": "We install a wide range of doors, including front doors, interior doors, patio doors, and security doors, in various materials and styles."
+          },
+          {
+            "question": "How long does it take to install a new door?",
+            "answer": "The installation timeframe depends on the type of door and complexity of the project, but we always provide a clear timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer emergency door repair services?",
+            "answer": "Yes, we offer emergency door repair services to address urgent security or weather protection needs."
+          }
+        ]
+      },
+      {
+        "slug": "baseboard-trim-installation",
+        "name": "Baseboard & Trim Installation",
+        "shortDescription": "Add elegance and value with expertly installed baseboards and trim.",
+        "description": "Tru Cut Finish Carpentry specializes in baseboard and trim installation, adding the perfect finishing touch to your Phoenix home. We understand the importance of these details in enhancing the overall aesthetic appeal of a room. Whether you're renovating your entire home or simply updating a single room, we have the expertise to handle any project. Our team carefully assesses your style preferences and architectural details, recommending the best baseboard and trim styles to complement your decor. We work with a variety of materials, including wood, MDF, and PVC, to match your budget and design aspirations.\n\nOur experienced installers pay meticulous attention to detail, ensuring seamless transitions, crisp lines, and flawless finishes. We use precise cutting and joining techniques to create a professional, polished look. We also offer painting and staining services to complete the project to your satisfaction. Considering Phoenix's dry climate, we use materials and techniques that resist cracking and warping. From simple, modern designs to ornate, traditional styles, we have the skills and experience to handle any baseboard and trim installation.\n\nWe pride ourselves on our prompt, reliable service and commitment to customer satisfaction. We are confident that you will be delighted with our workmanship and professionalism. We handle everything from initial consultation to final inspection, ensuring a hassle-free experience for our clients.",
+        "process": [
+          "Consultation and Design",
+          "Material Selection",
+          "Installation",
+          "Finishing"
+        ],
+        "benefits": [
+          "Enhanced Aesthetic Appeal",
+          "Increased Home Value",
+          "Protection for Walls",
+          "Concealed Imperfections"
+        ],
+        "faq": [
+          {
+            "question": "What types of baseboards and trim do you install?",
+            "answer": "We install a wide range of baseboards and trim, including wood, MDF, and PVC, in various styles and sizes."
+          },
+          {
+            "question": "Can you match existing baseboard and trim styles?",
+            "answer": "Yes, our experienced craftsmen can replicate existing baseboard and trim styles to ensure a seamless match with your home's decor."
+          },
+          {
+            "question": "Do you offer painting and staining services?",
+            "answer": "Yes, we offer painting and staining services to complete the baseboard and trim installation project to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Enjoy the Arizona outdoors with a custom-built deck or patio.",
+        "description": "Tru Cut Finish Carpentry designs and builds custom decks and patios that enhance your outdoor living space in Phoenix. We understand the importance of creating a comfortable and functional area for relaxation and entertainment. Whether you envision a spacious deck for hosting barbecues or a cozy patio for enjoying the Arizona sunsets, we have the expertise to bring your dream outdoor space to life. Our team carefully assesses your needs, considering factors such as sun exposure, wind patterns, and privacy, to create a design that maximizes your enjoyment of the outdoors.\n\nWe work with a variety of materials, including wood, composite decking, and pavers, to match your budget and style preferences. Our experienced builders use durable construction techniques to withstand Phoenix's harsh climate, including extreme heat, intense sunlight, and monsoon rains. We also offer a range of customization options, such as railings, lighting, and built-in seating, to enhance the functionality and aesthetic appeal of your deck or patio. We handle everything from initial consultation to final inspection, ensuring a hassle-free experience for our clients.\n\nWe are committed to providing exceptional craftsmanship and customer satisfaction. We are confident that you will be delighted with your new deck or patio, creating a beautiful and functional outdoor space for years to come. We obtain all necessary permits and adhere to local building codes.",
+        "process": [
+          "Design and Planning",
+          "Material Selection",
+          "Construction",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Enhanced Home Value",
+          "Improved Entertainment Options",
+          "Relaxation and Enjoyment"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for decks and patios?",
+            "answer": "We work with a variety of materials, including wood, composite decking, and pavers, selected for their durability and aesthetic appeal."
+          },
+          {
+            "question": "Do I need a permit for deck or patio construction?",
+            "answer": "Yes, in most cases, a permit is required for deck or patio construction in Phoenix. We handle all necessary permit applications."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The construction timeframe depends on the size and complexity of the project, but we always provide a clear timeline during the consultation phase."
+          }
+        ]
+      },
+      {
+        "slug": "fence-installation-repair",
+        "name": "Fence Installation & Repair",
+        "shortDescription": "Protect your property with a durable and attractive fence.",
+        "description": "Tru Cut Finish Carpentry provides fence installation and repair services to enhance the security, privacy, and aesthetic appeal of your Phoenix property. We understand the importance of a well-built and maintained fence in protecting your home and family. Whether you need a new fence installed or an existing fence repaired, we have the expertise to handle any project. Our team carefully assesses your needs, recommending the best fence style and materials for your budget and design preferences. We work with a variety of materials, including wood, chain link, and vinyl, to match your specific requirements.\n\nOur experienced installers ensure a precise fit and secure construction, paying meticulous attention to detail. We also offer fence staining and painting services to enhance the appearance and longevity of your fence. Considering Phoenix's harsh climate, we use materials and techniques that resist weathering and termite damage. From traditional wood fences to modern vinyl fences, we have the skills and experience to handle any type of fence installation or repair. We are committed to providing exceptional craftsmanship and customer satisfaction.\n\nWe handle everything from initial consultation to final inspection, ensuring a hassle-free experience for our clients. We obtain all necessary permits and adhere to local building codes. We are confident that you will be delighted with our workmanship and professionalism. We also handle gate installation and repair.",
+        "process": [
+          "Assessment and Consultation",
+          "Fence Selection",
+          "Installation or Repair",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Increased Privacy",
+          "Improved Curb Appeal",
+          "Property Boundary Definition"
+        ],
+        "faq": [
+          {
+            "question": "What types of fences do you install?",
+            "answer": "We install a wide range of fences, including wood, chain link, and vinyl, in various styles and heights."
+          },
+          {
+            "question": "Do I need a permit for fence installation?",
+            "answer": "Yes, in most cases, a permit is required for fence installation in Phoenix. We handle all necessary permit applications."
+          },
+          {
+            "question": "How long does it take to install a new fence?",
+            "answer": "The installation timeframe depends on the type of fence and complexity of the project, but we always provide a clear timeline during the consultation phase."
+          }
+        ]
+      },
+      {
+        "slug": "shelving-installations",
+        "name": "Shelving Installations",
+        "shortDescription": "Maximize storage and organization with custom shelving solutions.",
+        "description": "Tru Cut Finish Carpentry designs and installs custom shelving solutions that maximize storage and organization in your Phoenix home or business. We understand the importance of efficient and attractive storage in creating a clutter-free and functional space. Whether you need shelving for your pantry, closet, garage, or office, we have the expertise to handle any project. Our team carefully assesses your needs, recommending the best shelving style and materials for your budget and design preferences. We work with a variety of materials, including wood, wire, and laminate, to match your specific requirements. Our experienced installers ensure a precise fit and secure construction, paying meticulous attention to detail.\n\nWe offer a range of customization options, such as adjustable shelves, pull-out drawers, and integrated lighting, to enhance the functionality and aesthetic appeal of your shelving. Considering Phoenix's dry climate, we use materials and techniques that resist warping and cracking. From simple, minimalist designs to elaborate, built-in units, we have the skills and experience to handle any shelving installation. We pride ourselves on our prompt, reliable service and commitment to customer satisfaction.\n\nWe handle everything from initial consultation to final inspection, ensuring a hassle-free experience for our clients. We are confident that you will be delighted with our workmanship and professionalism. We specialize in creating tailored shelving solutions for any space.",
+        "process": [
+          "Consultation and Design",
+          "Material Selection",
+          "Installation",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Maximized Storage Space",
+          "Improved Organization",
+          "Enhanced Aesthetic Appeal",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of shelving do you install?",
+            "answer": "We install a wide range of shelving, including wood, wire, and laminate, in various styles and sizes."
+          },
+          {
+            "question": "Can you create custom shelving for awkward spaces?",
+            "answer": "Yes, we specialize in creating custom shelving solutions for awkward spaces, maximizing storage potential in any area."
+          },
+          {
+            "question": "Do you offer adjustable shelving options?",
+            "answer": "Yes, we offer adjustable shelving options to accommodate changing storage needs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Tru Cut Finish Carpentry is proud to offer our expert carpentry services to Scottsdale, Arizona. From luxurious Southwestern estates to modern renovations, we bring precision and artistry to every project. Scottsdale homeowners demand the highest quality, and we're committed to exceeding expectations with meticulous craftsmanship and attention to detail, all while tackling the unique challenges of the Arizona climate.",
+        "localContext": "Scottsdale is known for its luxury Southwestern estates and extreme summer heat exceeding 110F, requiring durable and thermally appropriate finish carpentry solutions.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Fountain Hills"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Tru Cut Finish Carpentry provides top-notch carpentry services to the residents of Mesa, Arizona. Many homes in Mesa feature 1970s-80s stucco construction, and we specialize in updating and renovating these homes with modern finish carpentry. We understand the unique challenges of working in Mesa's climate and ensure our work stands the test of time.",
+        "localContext": "Mesa features many 1970s-80s stucco homes and faces extreme summer heat exceeding 110F, making durable and climate-appropriate carpentry essential.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Tru Cut Finish Carpentry is dedicated to providing exceptional finish carpentry to the residents of Chandler, Arizona. Known for its planned developments built in the 1990s and 2000s, Chandler homes benefit from our expertise in modern design and efficient execution. We are committed to delivering outstanding results that enhance the beauty and value of your Chandler home, even under the Arizona sun.",
+        "localContext": "Chandler is characterized by planned developments from the 1990s-2000s and experiences extreme summer heat exceeding 110F, requiring durable and well-installed carpentry.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Mesa",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Tru Cut Finish Carpentry is proud to serve the growing community of Gilbert, Arizona. With a large amount of newer construction from the 2000s to 2020s, Gilbert homes require skilled finish carpentry to match their modern designs. We offer a wide range of services, from custom trim work to cabinet installation, ensuring your Gilbert home looks its best. We understand the challenges of the Arizona climate and provide solutions that last.",
+        "localContext": "Gilbert features newer construction from the 2000s-2020s and extreme summer heat exceeding 110F, demanding modern and durable finish carpentry.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Tru Cut Finish Carpentry is excited to offer our carpentry services to the vibrant city of Tempe, Arizona. Home to Arizona State University, Tempe features a mix of older and newer homes, many of which benefit from our renovation and remodeling expertise. Whether you're looking to update your kitchen cabinets or add custom trim work, we're here to help you achieve your vision. We are well-versed in the needs of Tempe homeowners and the challenges of the Arizona climate.",
+        "localContext": "Tempe's proximity to ASU results in many university-area homes, and summers bring extreme heat exceeding 110F, requiring durable carpentry solutions.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Tru Cut Finish Carpentry is based in Phoenix, AZ and provides comprehensive carpentry services throughout the valley. As the largest city in Arizona, Phoenix boasts a diverse range of home styles and architectural designs. We are equipped to handle any project, from small repairs to large-scale renovations, ensuring your Phoenix home is both beautiful and functional. We understand the specific needs of Phoenix homeowners, including the importance of durability in the face of extreme heat.",
+        "localContext": "Phoenix is a large, diverse city with extreme summer heat exceeding 110F, requiring durable and climate-appropriate finish carpentry.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Tempe",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Paradise Valley",
+        "slug": "paradise-valley-az",
+        "state": "AZ",
+        "content": "Tru Cut Finish Carpentry brings exceptional craftsmanship to Paradise Valley, Arizona. Known for its luxury homes and stunning desert landscapes, Paradise Valley demands the highest standards of quality and attention to detail. Whether it's custom cabinetry, intricate trim work, or elegant door installations, we ensure every project reflects the unique character and sophistication of this exclusive community, while withstanding the Arizona climate.",
+        "localContext": "Paradise Valley is known for its luxury homes and extreme summer heat exceeding 110F, requiring high-end and durable finish carpentry solutions.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Phoenix",
+          "Fountain Hills"
+        ]
+      },
+      {
+        "city": "Queen Creek",
+        "slug": "queen-creek-az",
+        "state": "AZ",
+        "content": "Tru Cut Finish Carpentry is proud to serve the growing community of Queen Creek, Arizona. With a focus on new construction and family-friendly living, Queen Creek homes benefit from our expertise in creating functional and beautiful spaces. We offer a range of services tailored to the needs of Queen Creek residents, from custom shelving to efficient storage solutions. We are committed to delivering exceptional results that enhance the comfort and value of your home, while addressing the challenges of the Arizona climate.",
+        "localContext": "Queen Creek is experiencing rapid growth with new construction and faces extreme summer heat exceeding 110F, requiring modern and durable carpentry solutions.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "San Tan Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Tru Cut built the most amazing cabinets for our Arcadia kitchen remodel. The quality is outstanding, and they perfectly matched the Southwest style of our home. The installers were professional and cleaned up everything afterwards.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Fence Repair",
+        "text": "Our fence was damaged in a monsoon storm. Tru Cut came out quickly and repaired it perfectly. The price was fair, and the service was excellent. Highly recommended for fence work in Phoenix!",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Baseboard Installation",
+        "text": "We had Tru Cut install new baseboards throughout our Biltmore home. The craftsmanship is impeccable, and it completely transformed the look of our rooms. They were very professional and easy to work with.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Door Installation",
+        "text": "Tru Cut installed a new front door for us. The whole process was smooth and easy. They helped us pick the perfect door to match our home's style, and the installation was flawless. Our home is much more secure now.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 4,
+        "service": "Patio Construction",
+        "text": "We hired Tru Cut to build a patio in our backyard. The design is beautiful, and they used high-quality materials. It's the perfect spot for enjoying the Arizona evenings. There were a few minor delays, but overall, we're very happy with the result.",
+        "date": "2024-05-03"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Shelving Installations",
+        "text": "Tru Cut installed custom shelving in our garage. The shelves are sturdy and well-designed, maximizing our storage space. The team was professional, efficient, and cleaned up thoroughly after the job. Great work!",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Phoenix Carpenter | Tru Cut Finish Carpentry",
+        "description": "Expert carpentry in Phoenix. Custom cabinets, doors, decks, fences. Quality craftsmanship, lasting results. Call Tru Cut today!"
+      },
+      "about": {
+        "title": "About Tru Cut Finish Carpentry | Phoenix AZ",
+        "description": "Learn about Tru Cut Finish Carpentry, your trusted Phoenix carpenter. Quality craftsmanship, local expertise, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Phoenix Carpentry Services | Tru Cut Finish",
+        "description": "Tru Cut Finish Carpentry offers expert carpentry services in Phoenix. Custom cabinets, doors, decks, fences, and more. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Tru Cut Finish Carpentry | Phoenix AZ",
+        "description": "Contact Tru Cut Finish Carpentry for all your carpentry needs in Phoenix. Call us today for a free quote and expert service."
+      },
+      "reviews": {
+        "title": "Tru Cut Finish Carpentry Reviews | Phoenix AZ",
+        "description": "Read reviews from satisfied Tru Cut Finish Carpentry customers in Phoenix. See why we're the trusted choice for carpentry services."
+      },
+      "service-areas": {
+        "title": "Tru Cut Finish Carpentry Service Areas",
+        "description": "Tru Cut Finish Carpentry provides expert carpentry services throughout the Phoenix metro area. Call us for service in your neighborhood!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "door-installation-repair": "/images/service-door-installation-repair.webp",
+      "baseboard-trim-installation": "/images/service-baseboard-trim-installation.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "fence-installation-repair": "/images/service-fence-installation-repair.webp",
+      "shelving-installations": "/images/service-shelving-installations.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation-repair": {
+        "src": "/images/service-door-installation-repair.webp",
+        "srcset": "/images/service-door-installation-repair-400w.webp 400w, /images/service-door-installation-repair-800w.webp 800w, /images/service-door-installation-repair-1200w.webp 1200w, /images/service-door-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "baseboard-trim-installation": {
+        "src": "/images/service-baseboard-trim-installation.webp",
+        "srcset": "/images/service-baseboard-trim-installation-400w.webp 400w, /images/service-baseboard-trim-installation-800w.webp 800w, /images/service-baseboard-trim-installation-1200w.webp 1200w, /images/service-baseboard-trim-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-installation-repair": {
+        "src": "/images/service-fence-installation-repair.webp",
+        "srcset": "/images/service-fence-installation-repair-400w.webp 400w, /images/service-fence-installation-repair-800w.webp 800w, /images/service-fence-installation-repair-1200w.webp 1200w, /images/service-fence-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "shelving-installations": {
+        "src": "/images/service-shelving-installations.webp",
+        "srcset": "/images/service-shelving-installations-400w.webp 400w, /images/service-shelving-installations-800w.webp 800w, /images/service-shelving-installations-1200w.webp 1200w, /images/service-shelving-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
